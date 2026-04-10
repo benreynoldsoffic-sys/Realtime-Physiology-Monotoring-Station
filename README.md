@@ -1,4 +1,4 @@
-# Realtime Physiology Monotoring Station <br> Table of Contents
+# Realtime Physiology Monotoring Station <br> [Table of Contents]
 - [Section 1: Introduction and Learning Resources](#section-1-introduction-and-learning-resources)
   - [1.a — Welcome to the Project](#1a--welcome-to-the-project)
   - [1.b — Current Abilities of the Program and Recommendations for Use Cases](#1b--current-abilities-of-the-program-and-recommendations-for-use-cases)
