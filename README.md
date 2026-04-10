@@ -15,7 +15,16 @@
 
 ### 1.a — Welcome to the Project
 
-in this introductory section I wanted to take a moment to give some context to the development and reason for the existance of this project in particular. To start our current ability to model human cognitive states is increadible, however many researchers in the field remain restricted in real-world applications, as most cognitive state prediction is examined after a session has concluded. Thus, while these models have improved, their application has generally remained stagnant. This code base at least in some part aimst to provede an open source solution to this issue. However that is not to say that it is limited to human physiology alone, as this system simplyprovides a base on which any incoming live data can be exstracted and examined in a quasi realtime fashon. Before continuing I must thank the following organizations for supporting the initial development of this system.
+Our current ability to model human cognitive states is remarkable. However, many researchers 
+in the field remain restricted in real-world applications, as most cognitive state prediction 
+is examined only after a session has concluded. Thus, while these models have steadily improved, 
+their application has largely remained stagnant.
+
+This codebase aims, at least in part, to provide an open-source solution to this problem. That 
+said, it is not limited to human physiology alone. This system simply provides a foundation 
+upon which any incoming live data can be extracted and examined in a quasi-real-time fashion. 
+Before continuing, I would like to thank the following organizations for their support in the 
+initial development of this system.
 
 <br>
 
