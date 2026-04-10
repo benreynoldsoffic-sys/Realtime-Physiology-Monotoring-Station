@@ -8,7 +8,7 @@
 
 ### 1.a — Welcome to the Project
 
-<!-- Introduction text goes here -->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 <br>
 
@@ -32,24 +32,21 @@
 
 ### 1.b — Current Abilities of the Program and Recommendations for Use Cases
 
-<!-- Describe what the program can currently do here -->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<!-- Describe recommended use cases here -->
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
 
 ---
 
 ### 1.c — Learning and Resources
 
-<!-- 
-  Introductory paragraph goes here. Briefly describe what the table below contains,
-  who it is for, and how to use the resources listed within it.
--->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. The table below organises key learning resources by subject area and experience level — use it to find materials appropriate to your current familiarity with each topic.
 
 | Resource Level | Biopac | Multi-Processing | Python |
 |----------------|--------|-----------------|--------|
-| **Beginner**   |        |                 |        |
-| **Intermediate**|       |                 |        |
-| **Advanced**   |        |                 |        |
+| **Beginner**   | Lorem ipsum dolor sit amet | Consectetur adipiscing elit | Sed do eiusmod tempor |
+| **Intermediate**| Ut enim ad minim veniam | Quis nostrud exercitation | Ullamco laboris nisi |
+| **Advanced**   | Duis aute irure dolor | Reprehenderit in voluptate | Velit esse cillum dolore |
 
 ---
 
@@ -59,13 +56,13 @@
 
 ### 2.a — Step-by-Step Setup for Windows
 
-<!-- Brief overview of the setup process goes here -->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Follow the steps below in order to download and configure the system on a Windows machine. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ---
 
 **Step 1 — [Step Title]**
 
-<!-- Description of Step 1 goes here -->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 <p align="center">
   <img src="./assets/images/setup/step_1.png" alt="Step 1" width="600"/>
@@ -75,7 +72,7 @@
 
 **Step 2 — [Step Title]**
 
-<!-- Description of Step 2 goes here -->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <p align="center">
   <img src="./assets/images/setup/step_2.png" alt="Step 2" width="600"/>
@@ -85,7 +82,7 @@
 
 **Step 3 — [Step Title]**
 
-<!-- Description of Step 3 goes here -->
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
 
 <p align="center">
   <img src="./assets/images/setup/step_3.png" alt="Step 3" width="600"/>
@@ -95,7 +92,7 @@
 
 **Step 4 — [Step Title]**
 
-<!-- Description of Step 4 goes here -->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 <p align="center">
   <img src="./assets/images/setup/step_4.png" alt="Step 4" width="600"/>
@@ -105,7 +102,7 @@
 
 **Step 5 — [Step Title]**
 
-<!-- Description of Step 5 goes here -->
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium. Totam rem aperiam eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
 <p align="center">
   <img src="./assets/images/setup/step_5.png" alt="Step 5" width="600"/>
@@ -115,46 +112,40 @@
 
 ### 2.b — Development Functions: Incoming Data
 
-<!-- 
-  Overview discussion goes here. Explain the purpose of the incoming data functions,
-  what they handle, and any important context before diving into the details.
--->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<!-- Sub-topic / Function group discussion -->
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
 
 <p align="center">
   <img src="./assets/images/dev/incoming_1.png" alt="Incoming Data Function Example" width="600"/>
 </p>
 
-<!-- Continue discussion as needed -->
+At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident. Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.
 
 <p align="center">
   <img src="./assets/images/dev/incoming_2.png" alt="Incoming Data Function Example 2" width="600"/>
 </p>
 
-<!-- Continue discussion as needed -->
+Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet.
 
 ---
 
 ### 2.c — Development Functions: Data Analysis
 
-<!-- 
-  Overview discussion goes here. Explain the purpose of the analysis functions,
-  what kinds of analysis are supported, and how to interpret or use the outputs.
--->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<!-- Sub-topic / Function group discussion -->
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
 
 <p align="center">
   <img src="./assets/images/dev/analysis_1.png" alt="Analysis Function Example" width="600"/>
 </p>
 
-<!-- Continue discussion as needed -->
+At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident. Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
 
 <p align="center">
   <img src="./assets/images/dev/analysis_2.png" alt="Analysis Function Example 2" width="600"/>
 </p>
 
-<!-- Continue discussion as needed -->
+Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
 
 ---
