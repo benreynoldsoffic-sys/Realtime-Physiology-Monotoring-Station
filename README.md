@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 <br>
 
 <p align="center">
-  <img src="./Supp_Images/welcome_image_1.png" alt="Project Overview 1" width="600"/>
+  <img src="./Supp_Images/biologo.png" alt="Project Overview 1" width="600"/>
 </p>
 
 <br>
