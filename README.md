@@ -15,7 +15,7 @@
 
 ### 1.a — Welcome to the Project
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+in this introductory section I wanted to take a moment to give some context to the development and reason for the existance of this project in particular. To start our current ability to model human cognitive states is increadible, however many researchers in the field remain restricted in real-world applications, as most cognitive state prediction is examined after a session has concluded. Thus, while these models have improved, their application has generally remained stagnant. This code base at least in some part aimst to provede an open source solution to this issue. However that is not to say that it is limited to human physiology alone, as this system simplyprovides a base on which any incoming live data can be exstracted and examined in a quasi realtime fashon. Before continuing I must thank the following organizations for supporting the initial development of this system.
 
 <br>
 
