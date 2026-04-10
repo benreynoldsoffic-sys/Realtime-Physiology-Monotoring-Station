@@ -1,5 +1,12 @@
-# Project Name
-
+# Project Name## Table of Contents
+- [Section 1: Introduction and Learning Resources](#section-1-introduction-and-learning-resources)
+  - [1.a — Welcome to the Project](#1a--welcome-to-the-project)
+  - [1.b — Current Abilities of the Program and Recommendations for Use Cases](#1b--current-abilities-of-the-program-and-recommendations-for-use-cases)
+  - [1.c — Learning and Resources](#1c--learning-and-resources)
+- [Section 2: Set Up and Development](#section-2-set-up-and-development)
+  - [2.a — Step-by-Step Setup for Windows](#2a--step-by-step-setup-for-windows)
+  - [2.b — Development Functions: Incoming Data](#2b--development-functions-incoming-data)
+  - [2.c — Development Functions: Data Analysis](#2c--development-functions-data-analysis)
 ---
 
 ## Section 1: Introduction and Learning Resources
