@@ -26,23 +26,12 @@ upon which any incoming live data can be extracted and examined in a quasi-real-
 Before continuing, I would like to thank the following organizations for their support in the 
 initial development of this system.
 
-<br>
-
 <p align="center">
   <img src="./Supp_Images/Git edition Thank you.png" alt="Project Overview 1" width="500%"/>
 </p>
 
 <br>
 
-<p align="center">
-  <img src="./assets/images/welcome_image_2.png" alt="Project Overview 2" width="600"/>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="./assets/images/welcome_image_3.png" alt="Project Overview 3" width="600"/>
-</p>
 
 ---
 
@@ -67,6 +56,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 ---
 
 ## Section 2: Set Up and Development
+<p align="center">
+  <img src="./assets/images/welcome_image_2.png" alt="Project Overview 2" width="600"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="./assets/images/welcome_image_3.png" alt="Project Overview 3" width="600"/>
+</p>
 
 ---
 
