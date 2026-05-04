@@ -57,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 ## Section 2: Set Up and Development
 <p align="center">
-  <img src="./Supp_Images/Git edit Collector system cycles.png" alt="Project Overview 3" width="600"/>
+  <img src="./Supp_Images/Git edit Collector system cycles.png" alt="Project Overview 3" width="600%"/>
 </p>
 
 <br>
