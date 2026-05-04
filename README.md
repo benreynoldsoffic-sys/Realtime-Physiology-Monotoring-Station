@@ -29,7 +29,7 @@ initial development of this system.
 <br>
 
 <p align="center">
-  <img src="./Supp_Images/Git edition Thank you.png" alt="Project Overview 1" width="50%"/>
+  <img src="./Supp_Images/Git edition Thank you.png" alt="Project Overview 1" width="1000%"/>
 </p>
 
 <br>
