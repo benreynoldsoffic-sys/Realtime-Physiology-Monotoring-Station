@@ -26,9 +26,9 @@ upon which any incoming live data can be extracted and examined in a quasi-real-
 Before continuing, I would like to thank the following organizations for their support in the 
 initial development of this system.
 
-<p align="center"> <img src="./Supp_Images/Git edition Thank you.png" alt="Project Overview 1" width="500%"/> </p>
-
-<br>
+<p align="center">
+  <img src="./Supp_Images/Git edition Thank you.png" alt="Project Overview 1" width="500%"/>
+</p>
 
 
 ---
