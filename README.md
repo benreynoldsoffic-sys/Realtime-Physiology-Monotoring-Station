@@ -15,16 +15,7 @@
 
 ### 1.a — Welcome to the Project
 
-Our current ability to model human cognitive states is remarkable. However, many researchers 
-in the field remain restricted in real-world applications, as most cognitive state prediction 
-is examined only after a session has concluded. Thus, while these models have steadily improved, 
-their application has largely remained stagnant.
-
-This codebase aims, at least in part, to provide an open-source solution to this problem. That 
-said, it is not limited to human physiology alone. This system simply provides a foundation 
-upon which any incoming live data can be extracted and examined in a quasi-real-time fashion. 
-Before continuing, I would like to thank the following organizations for their support in the 
-initial development of this system.
+While codebases like ROS2 are an excelent foundation for developing realtime systems, these codebases are focused on enebaling as many kinds of hardware, data speeds, and encoding styles as possible. So while it can be reworked to transfer information amongst more complex data colection devices this can pose a time constraint having to learn the whole system and work within its existing constraints, which may be unfesable for some labritorys and reserch institutions. Lead to the creation of the RPMS (Realtime Physiology Monotering System), developed as a more focused framework from which realtime human physiological data may be taken in, cleaned, and analysed, producing more complex features at a semi realtime rate. That said, it is not limited to human physiology alone. This system simply provides a foundation upon which any incoming live data can be extracted and examined in a quasi-real-time fashion. Before continuing, I would like to thank the following organizations for their support in the initial development of this system.
 
 <p align="center">
   <img src="./Supp_Images/Git edition Thank you.png" alt="Project Overview 1" width="500%"/>
