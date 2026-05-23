@@ -15,13 +15,12 @@
 
 ### 1.a — Welcome to the Project
 
-While codebases like ROS2 are an excelent foundation for developing realtime systems, these codebases are focused on enebaling as many kinds of hardware, data speeds, and encoding styles as possible. So while it can be reworked to transfer information amongst more complex data colection devices this can pose a time constraint having to learn the whole system and work within its existing constraints, which may be unfesable for some labritorys and reserch institutions. Lead to the creation of the RPMS (Realtime Physiology Monotering System), developed as a more focused framework from which realtime human physiological data may be taken in, cleaned, and analysed, producing more complex features at a semi realtime rate. That said, it is not limited to human physiology alone. This system simply provides a foundation upon which any incoming live data can be extracted and examined in a quasi-real-time fashion. Before continuing, I would like to thank the following organizations for their support in the initial development of this system.
+While codebases like ROS2 are an excelent foundation for developing realtime systems, these codebases are focused on enebaling as many kinds of hardware, data speeds, and encoding styles as possible. So while it can be reworked to transfer information amongst more complex data colection devices this can pose a time constraint having to learn the whole system and work within its existing constraints, which may be unfesable for some labritorys and reserch institutions. Lead to the creation of the RPMS (Realtime Physiology Monotering System), developed as a more focused framework from which realtime human physiological data may be taken in, cleaned, and analysed, producing more complex features at a semi realtime rate. That said, it is not limited to human physiology alone. This system simply provides a foundation upon which any incoming live data can be extracted and examined in a quasi-real-time fashion.
 
-<p align="center">
-  <img src="./Supp_Images/Git edition Thank you.png" alt="Project Overview 1" width="500%"/>
-</p>
+I would like to take a moment to note that this project likely has some bugs that I have missed, for this reason I have included as many resources as possible inorder to show you my thought process in its development and aid in the debuging process.
 
-
+This project was last updated:
+[05/22/2026]
 ---
 
 ### 1.b — Current Abilities of the Program and Recommendations for Use Cases
