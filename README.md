@@ -33,6 +33,11 @@ This system requires that the following be true of any device (or associated dev
 - If unable to transmit via TCP conection itself be able to ECHO the data.
 - Be able to send data reliably and on a consistant schedule.
 
+This system requires the following hardware to be true of any device atempting to run this system:
+- Enough ports to conect your devices too. 
+- 16 CPU cores
+- 16 GB of RAM
+
 ---
 
 ### 1.c — Learning and Resources
