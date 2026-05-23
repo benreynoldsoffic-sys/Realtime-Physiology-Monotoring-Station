@@ -27,9 +27,11 @@ This project was last updated:
 
 ### 1.b — Current Abilities of the Program and Recommendations for Use Cases
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+This system requires that the following be true of any device (or associated device software) used in the collection of incoming data:
+- Be able to generate consistant data packages; i.e. the data packet will mantain a specefied length and structure like [ [x, y, voltage, strain, time] , [x, y, voltage, strain, time] ].
+- Be able to conect and transmit to an existing TCP conection.
+- If unable to transmit via TCP conection itself be able to ECHO the data.
+- Be able to send data reliably and on a consistant schedule.
 
 ---
 
