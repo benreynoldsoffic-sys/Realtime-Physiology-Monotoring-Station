@@ -27,16 +27,18 @@ This project was last updated:
 
 ### 1.b — Current Abilities of the Program and Recommendations for Use Cases
 
-This system requires that the following be true of any device (or associated device software) used in the collection of incoming data:
+System requires that the following be true of any device (or associated device software) used in the collection of incoming data:
 - Be able to generate consistant data packages; i.e. the data packet will mantain a specefied length and structure like [ [x, y, voltage, strain, time] , [x, y, voltage, strain, time] ].
 - Be able to conect and transmit to an existing TCP conection.
 - If unable to transmit via TCP conection itself be able to ECHO the data.
 - Be able to send data reliably and on a consistant schedule.
 
-This system requires the following hardware to be true of any device atempting to run this system:
+System requires the following hardware to be true of any device atempting to run this system:
 - Enough ports to conect your devices too. 
 - 16 CPU cores
 - 16 GB of RAM
+
+With regard to the systems current abilitys there are 2 factors to keep in mind: First the number of CPU Cores avalable on the device atempting to run this system, I have done my best to limit the possible number of context switches
 
 ---
 
