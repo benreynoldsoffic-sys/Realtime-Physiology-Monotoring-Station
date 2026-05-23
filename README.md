@@ -21,7 +21,7 @@ I would like to take a moment to note that this project likely has some bugs tha
 
 This project was last updated:
 
-'[05/22/2026]'
+\[05/22/2026]
 
 ---
 
