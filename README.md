@@ -21,7 +21,7 @@ I would like to take a moment to note that this project likely has some bugs tha
 
 This project was last updated:
 
-\[05/22/2026]
+\[06/13/2026]
 
 ---
 
@@ -44,13 +44,15 @@ With regard to the systems current abilitys there are 2 factors to keep in mind:
 
 ### 1.c — Learning and Resources
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. The table below organises key learning resources by subject area and experience level — use it to find materials appropriate to your current familiarity with each topic.
+There are three key design spaces you as a developer must concider when incorperating this project with your own existing methodology. First, where will the data be coming from; in the supporting resources bellow I have used the BIOPAC family of products as an example of products that you yourself may be using and what kind of information we want about that product inorder to properly and routinely get information passed from one source to another. Second, is multi procesing, which may seem strange. However, most reserchers who have only ever used Matlab or Rstudio may require aditional help understanding how exactly they need to break apart their existing system inorder to truly use this system to its fullest potential. Third, Python, while an advanced understanding of python is not required there is some strangeness to the way the system has been designed and mostly due to the python coding languages. All of these are not required readings but they are encoraged if you ever find yourself confused on a topic or getting an unforseen result, aside from emailing me these should at the very least point you in the right direction.
 
-| Resource Level | Biopac | Multi-Processing | Python |
+| Resource Type | Biopac | Multi-Processing | Python |
 |----------------|--------|-----------------|--------|
-| **Beginner**   | Lorem ipsum dolor sit amet | Consectetur adipiscing elit | Sed do eiusmod tempor |
-| **Intermediate**| Ut enim ad minim veniam | Quis nostrud exercitation | Ullamco laboris nisi |
+| **Basic**   | wondering what kind of resources you are even looking for? [Click Me](https://www.biopac.com/product/mp200-systems-with-ndt/){: .btn }  | Confused on multiprocesing as a whole? [Click Me]( https://www.geeksforgeeks.org/operating-systems/multi-processing-operating-system/){: .btn }  | Objects not working?  [Click Me](https://www.geeksforgeeks.org/python/python-oops-concepts/){: .btn }  |
+| **Complex**| Ut enim ad minim veniam | Quis nostrud exercitation | Ullamco laboris nisi |
 | **Advanced**   | Duis aute irure dolor | Reprehenderit in voluptate | Velit esse cillum dolore |
+**Basic:** A basic resource is a lower complexity resource that should ether help give an example of where why or how common problems or misunderstandings may occure.
+**Complex** A complex resource is more specific but still can be the result of a misunderstanding between an explination here and the exicution.
 
 ---
 
