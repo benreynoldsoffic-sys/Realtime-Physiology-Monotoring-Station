@@ -54,6 +54,8 @@ There are three key design spaces you as a developer must concider when incorper
 
 
 **Basic:** A basic resource is a lower complexity resource that should ether help give an example of where why or how common problems or misunderstandings may occure.
+
+
 **Complex** A complex resource is more specific but still can be the result of a misunderstanding between an explination here and the exicution.
 
 ---
