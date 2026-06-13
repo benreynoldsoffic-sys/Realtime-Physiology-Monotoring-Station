@@ -48,7 +48,7 @@ There are three key design spaces you as a developer must concider when incorper
 
 | Resource Type | Biopac | Multi-Processing | Python |
 |----------------|--------|-----------------|--------|
-| **Basic**   | wondering what kind of resources you are even looking for? [Click Me](https://www.biopac.com/product/mp200-systems-with-ndt/){: .btn }  | Confused on multiprocesing as a whole? [Click Me]( https://www.geeksforgeeks.org/operating-systems/multi-processing-operating-system/){: .btn }  | Objects not working?  [Click Me](https://www.geeksforgeeks.org/python/python-oops-concepts/){: .btn }  |
+| **Basic**   | wondering what kind of resources you are even looking for? [Click Me](https://www.biopac.com/product/mp200-systems-with-ndt/) | Confused on multiprocesing as a whole? [Click Me]( https://www.geeksforgeeks.org/operating-systems/multi-processing-operating-system/) | Objects not working?  [Click Me](https://www.geeksforgeeks.org/python/python-oops-concepts/)|
 | **Complex**| Ut enim ad minim veniam | Quis nostrud exercitation | Ullamco laboris nisi |
 | **Advanced**   | Duis aute irure dolor | Reprehenderit in voluptate | Velit esse cillum dolore |
 **Basic:** A basic resource is a lower complexity resource that should ether help give an example of where why or how common problems or misunderstandings may occure.
