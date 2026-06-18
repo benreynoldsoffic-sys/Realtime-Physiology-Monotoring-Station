@@ -21,7 +21,7 @@ I would like to take a moment to note that this project likely has some bugs tha
 
 This project was last updated:
 
-\[06/13/2026]
+\[06/18/2026]
 
 ---
 
@@ -49,7 +49,7 @@ There are three key design spaces you as a developer must concider when incorper
 | Resource Type | Biopac | Multi-Processing | Python |
 |----------------|--------|-----------------|--------|
 | **Basic**   | wondering what kind of resources you are even looking for? [Click Me](https://www.biopac.com/product/mp200-systems-with-ndt/) | Confused on multiprocesing as a whole? [Click Me]( https://www.geeksforgeeks.org/operating-systems/multi-processing-operating-system/) | Objects not working?  [Click Me](https://www.geeksforgeeks.org/python/python-oops-concepts/)|
-| **Complex**| Ut enim ad minim veniam | Quis nostrud exercitation | Ullamco laboris nisi |
+| **Complex**| Confused on converting coe? [Click Me](https://tristan-ka.github.io/IBOAT_RL/_downloads/SIMULINK_TO_C__PYTHON.pdf) | Quis nostrud exercitation | Ullamco laboris nisi |
 | **Advanced**   | Duis aute irure dolor | Reprehenderit in voluptate | Velit esse cillum dolore |
 
 
